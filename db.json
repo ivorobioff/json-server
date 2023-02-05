@@ -4,5 +4,17 @@
         "brand": "Ford",
         "model": "Focus",
         "mileage": 40000
+    },
+    {
+        "id": 2,
+        "brand": "Honda",
+        "model": "Accord",
+        "mileage": 0
+    },
+     {
+        "id": 3,
+        "brand": "Suzuki",
+        "model": "Vitara",
+        "mileage": 500
     }
 ]
